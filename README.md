@@ -1,0 +1,1 @@
+Repo hold the code for creating simple REST-API in golang.The API can handle GET, POST request.
